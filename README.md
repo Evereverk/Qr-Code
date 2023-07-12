@@ -12,6 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Screenshot
+![Screenshot-mobile](https://github.com/Evereverk/Qr-Code/assets/139268505/4483500e-7cec-489c-bcf9-3f7ebe5a42f1)
+![Screenshot-desktop](https://github.com/Evereverk/Qr-Code/assets/139268505/4e3fc18b-b9ae-4ec6-bd9d-bd439fe56be5)
 
 
 ### Links
