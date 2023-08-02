@@ -4,17 +4,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [Author](#author)
-
-
-### Screenshot
-![Screenshot-mobile](https://github.com/Evereverk/Qr-Code/assets/139268505/4483500e-7cec-489c-bcf9-3f7ebe5a42f1)
-![Screenshot-desktop](https://github.com/Evereverk/Qr-Code/assets/139268505/4e3fc18b-b9ae-4ec6-bd9d-bd439fe56be5)
-
 
 ### Links
 
@@ -33,4 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@Evereverk](https://www.frontendmentor.io/profile/Evereverk)
-- Instagram - [@aywilakm](https://www.twitter.com/aywilakm)
+- Instagram - [@ever_everk](https://www.instagram.com/ever_everk)
